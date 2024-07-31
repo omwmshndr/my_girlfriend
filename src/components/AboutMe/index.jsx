@@ -12,7 +12,7 @@ export const AboutMe = () => {
 						<small className='text-sm md:text-2xl'>А еще кому угодно развалю кабину на Лойке</small>
 					</div>
 					<div className=' overflow-hidden border-4 border-dashed border-text p-2 rounded-2xl -rotate-12'>
-						<img src="/src/assets/icons/mashka.jpg" className='w-[400px] rounded-2xl' />
+						<img src="https://raw.githubusercontent.com/omwmshndr/my_girlfriend/ef2b18df2861266b1ed791e9b46dc571afd4ab55/src/assets/icons/mashka.jpg" className='w-[400px] rounded-2xl' />
 					</div>
 				</div>
 			</Waves>

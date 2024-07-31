@@ -3,7 +3,7 @@ export const AboutMikky = () => {
 
 		<div className='flex w-full gap-y-10 flex-col md:space-x-44 items-center'>
 			<div className=' overflow-hidden border-4 border-dashed border-text p-2 rounded-2xl rotate-12'>
-				<img src="/src/assets/icons/mikki.jpg" className='w-[400px] rounded-2xl' />
+				<img src="https://raw.githubusercontent.com/omwmshndr/my_girlfriend/ef2b18df2861266b1ed791e9b46dc571afd4ab55/src/assets/icons/mikki.jpg" className='w-[400px] rounded-2xl' />
 			</div>
 			<div className=' flex flex-col'>
 				<h2 className=' text-2xl font-semibold md:text-7xl'>А это моя киця - Микки</h2>

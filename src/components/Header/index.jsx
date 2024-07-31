@@ -14,10 +14,10 @@ export const Header = () => {
 
 	return <header className=' flex justify-between px-4 py-6 relative z-2'>
 		<div className=' flex items-center space-x-1'>
-			<img src="/src/assets/icons/heart.svg" />
+			<img src="https://raw.githubusercontent.com/omwmshndr/my_girlfriend/ef2b18df2861266b1ed791e9b46dc571afd4ab55/src/assets/icons/heart.svg" />
 			<span className=' text-2xl font-semibold'>My Girlfriend</span>
 		</div>
-		<button><img src={isMenuOpen ? '/src/assets/icons/close.svg' : '/src/assets/icons/burger.svg'
+		<button><img src={isMenuOpen ? 'https://raw.githubusercontent.com/omwmshndr/my_girlfriend/ef2b18df2861266b1ed791e9b46dc571afd4ab55/src/assets/icons/close.svg' : 'https://raw.githubusercontent.com/omwmshndr/my_girlfriend/ef2b18df2861266b1ed791e9b46dc571afd4ab55/src/assets/icons/burger.svg'
 		} className='block md:hidden' onClick={burgerClickHandler} /></button>
 		<nav className={`hidden md:flex space-x-4   `}>
 			<a href="#me" className='link'>Про меня</a>
