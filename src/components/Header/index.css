@@ -1,0 +1,6 @@
+.link{
+	@apply text-xl transition hover:scale-105;
+}
+.burger-link{
+	@apply text-4xl transition hover:scale-105;;
+}
